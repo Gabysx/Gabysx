@@ -4,9 +4,10 @@
 <img align="right" src="https://raw.githubusercontent.com/Gabysx/Gabysx/main/image.png" width="350"/>
 
 
-Olá pessoas sejam bem vindos 🙋 !!!
+Hello people, welcome 🙋 !!!
 
-Aqui no momento é meu espaço de estudo, sou apaixonada por tecnologia e sempre que consigo tento alimentar aqui !!! 
+At the moment this is my space for study and development
+I am very passionate about technology, I hope to be able to help other people to understand this relationship with the machines and codes !!!
 
 ##Contact me on : 
 
