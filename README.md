@@ -9,7 +9,7 @@ Hello people, welcome 🙋 !!!
 At the moment this is my space for study and development
 I am very passionate about technology, I hope to be able to help other people to understand this relationship with the machines and codes !!!
 
-##Contact me on : 
+## Contact me on : 
 
 [![Twitter Badge](https://img.shields.io/badge/-@gaby_cand-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gaby_cand)](https://twitter.com/gaby_cand) 
 
