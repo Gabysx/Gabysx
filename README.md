@@ -6,8 +6,8 @@
 
 Olá pessoal, sejam bem-vindos 🙋!!!
 
-No momento, este é meu espaço de estudo e desenvolvimento.
-Sou muito apaixonado por tecnologia e espero poder ajudar outras pessoas a entender essa relação com as máquinas e os códigos!!!
+No momento, este é meu espaço de estudo.
+Uma apaixonada por tecnologia, quem sabe um dia espero poder ajudar outras pessoas a entender essa relação com as máquinas e os códigos!!!
 
 ## Meus Links : 
 
